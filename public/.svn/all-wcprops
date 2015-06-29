@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/LocalJoe/!svn/ver/928/sso/public
+END
+SolrDelta.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/LocalJoe/!svn/ver/459/sso/public/SolrDelta.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/LocalJoe/!svn/ver/928/sso/public/logout.php
+END
+check_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LocalJoe/!svn/ver/1010/sso/public/check_user.php
+END
+PreprocessPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LocalJoe/!svn/ver/963/sso/public/PreprocessPost.php
+END
+checkIfTokenExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LocalJoe/!svn/ver/780/sso/public/checkIfTokenExists.php
+END
+activate_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LocalJoe/!svn/ver/928/sso/public/activate_user.php
+END
+CraigImport.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LocalJoe/!svn/ver/962/sso/public/CraigImport.php
+END
+SolrDataImport.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LocalJoe/!svn/ver/701/sso/public/SolrDataImport.php
+END
+reset_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LocalJoe/!svn/ver/1011/sso/public/reset_password.php
+END
+admin_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LocalJoe/!svn/ver/928/sso/public/admin_user.php
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/LocalJoe/!svn/ver/876/sso/public/jquery.min.js
+END
+change_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LocalJoe/!svn/ver/782/sso/public/change_password.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LocalJoe/!svn/ver/869/sso/public/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LocalJoe/!svn/ver/852/sso/public/login.php
+END
